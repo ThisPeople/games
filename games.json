@@ -1,12 +1,7 @@
 {
-  "testgame": {
-    "name": "Test game",
+  "storage-tycoon": {
+    "name": "Storage Tycoon",
     "isFree": true,
-    "downloadURL": "https://example.com/test_game"
-  },
-  "another": {
-    "name": "Another Game",
-    "isFree": false,
-    "downloadURL": "https://example.com/another_game"
+    "downloadURL": "https://michael-studio.github.io/storage-tycoon"
   }
 }
