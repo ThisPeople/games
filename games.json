@@ -1,10 +1,12 @@
-"testgame": {
-  "name": "Test game",
-  "isFree": true,
-  "downloadURL": "https://example.com/test_game"
-},
-"another": {
-  "name": "Another Game",
-  "isFree": false,
-  "downloadURL": "https://example.com/another_game"
+{
+  "testgame": {
+    "name": "Test game",
+    "isFree": true,
+    "downloadURL": "https://example.com/test_game"
+  },
+  "another": {
+    "name": "Another Game",
+    "isFree": false,
+    "downloadURL": "https://example.com/another_game"
+  }
 }
