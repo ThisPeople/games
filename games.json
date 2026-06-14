@@ -3,5 +3,10 @@
     "name": "Storage Tycoon",
     "isFree": true,
     "downloadURL": "https://michael-studio.github.io/storage-tycoon"
+  },
+  "boardwalk-empire": {
+    "name": "Подпольная империя",
+    "isFree": true,
+    "download": "https://thispeople.github.io/games_rp/boardwalkempire"
   }
 }
