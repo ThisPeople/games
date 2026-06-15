@@ -1,6 +1,7 @@
 {
   "storage-tycoon": {
     "name": "Storage Tycoon",
+    "icon": "https://github.com/Michael-Studio/storage-tycoon/blob/main/icon.png?raw=true",
     "isFree": true,
     "downloadURL": "https://michael-studio.github.io/storage-tycoon"
   },
