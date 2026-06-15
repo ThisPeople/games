@@ -6,7 +6,8 @@
   },
   "boardwalk-empire": {
     "name": "Подпольная империя",
-    "isFree": true,
-    "downloadURL": "https://thispeople.github.io/games_rp/boardwalkempire"
+    "isFree": false,
+    "price": 100,
+    "downloadURL": "https://thispeople.github.io/games_rp/boardwalkempire/index.encrypted"
   }
 }
