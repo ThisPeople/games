@@ -10,5 +10,10 @@
     "isFree": false,
     "price": 100,
     "downloadURL": "https://thispeople.github.io/games_rp/boardwalkempire/index.encrypted"
+  },
+  "bitcoin-traider": {
+    "name": "Симулятор торговли биткоином",
+    "isFree": true,
+    "downloadURL": "https://michael-studio.github.io/Michael-s-Market-Apps/btc"
   }
 }
